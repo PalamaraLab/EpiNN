@@ -36,7 +36,7 @@ pip install gc
 
 - Download data and unzip:
 
-Decompress the raw data in Data/Raw_data.tar.gz by typing 
+Download the training data from https://github.com/PalamaraLab/EpiNN_data, then decompress the raw data in Data/Raw_data.tar.gz by typing 
 
 ```
 tar -cvzf Raw_data.tar.gz

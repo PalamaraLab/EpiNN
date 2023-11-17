@@ -2,7 +2,7 @@
 
 EpiNN was implemented and tested using CentOS Linux 7.
 
-The training data is available in https://github.com/PalamaraLab/EpiNN_data
+The training data is available at https://github.com/PalamaraLab/EpiNN_data
 
 ## 🔬 Get started
 
